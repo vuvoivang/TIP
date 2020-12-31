@@ -1,0 +1,23 @@
+.container .calculate .col {
+  margin: 20px auto;
+}
+.container .form-group label {
+  font-weight: 600;
+  font-size: 20px;
+}
+.container .form-group option {
+  font-weight: 600;
+  font-size: 20px;
+}
+#txtThongBaoTienTip {
+  font-size: 30px;
+  color: white;
+  justify-content: center;
+  align-self: center;
+  display: none;
+  text-align: center;
+}
+.e-total,
+.e-amount {
+  font-weight: 600;
+}
